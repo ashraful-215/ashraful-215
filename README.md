@@ -15,7 +15,7 @@
 ✪ Product Design
 ✪ Website Design
 ✪ Dashboard Design
-✪ Mobile App Design
+✪ Mobile App Design   
 ✪ Illustration Design
 ✪ Web Application Design
 ✪ Mobile Application Design
@@ -102,6 +102,12 @@
 <br/>  
 
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ashraful-215&&style=flat-square" align="center" />
+</div> 
+
+
+
 ----
 <div align="center">
 
@@ -127,8 +133,3 @@
 </a> 
 </div>  
 
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ashraful-215&&style=flat-square" align="center" />
-</div> 

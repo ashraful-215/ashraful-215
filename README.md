@@ -29,7 +29,7 @@
  ✪ Laravel Development
  ✪ Android Development
  ✪ Flutter Development
- ✪ Web Application Development
+ ✪ Web Application Development   
  ✪ Mobile Application Development
 
 ##### I try to solve difficult problems every time.  
@@ -116,13 +116,19 @@
 <a href="https://www.linkedin.com/in/md-ashraful-islam-talukdar-59370a1a9/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.behance.net/https://www.behance.net/ashraful_215" target="_blank">
+<a href="https://www.behance.net/ashraful_215" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/https://x.com/ashraful_215" target="_blank">
+<a href="https://twitter.com/ashraful_215" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/https://www.facebook.com/asrafulislam.imran.35/" target="_blank">
+<a href="https://www.facebook.com/asrafulislam.imran.35" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
+</a> 
 </div>  
+
+
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ashraful-215&&style=flat-square" align="center" />
+</div> 

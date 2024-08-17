@@ -1,9 +1,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8011DA&background=F7F7F700&width=610&height=70&lines=Hello!++I+am+MD+Ashraful+Islam+Talukdar;A+Creative+Designer+with+5%2B+Years+of+Experience;User+Interface+and+Experience+Designer+at+Omotive" alt="Typing SVG" /></a>
 
-# Web Application (Laravel) & Mobile Application (Flutter) Developer
+# Web Application (PHP) & Mobile Application (Flutter) Developer
   
 ### 💼 Current Position
-## User Interface & User Experience Designer at Omotive  
+## User Interface & User Experience Designer at Omotive
+#### https://www.omotive.co/
   
 
 #### ✨ A Creative Designer with 5+ Years of Experience
@@ -14,6 +15,7 @@
 ✪ UX Design / Research
 ✪ Product Design
 ✪ Website Design
+✪ Web App Design
 ✪ Dashboard Design
 ✪ Mobile App Design   
 ✪ Illustration Design
@@ -26,7 +28,7 @@
  
 ##### 💻 Services I provide: 
  ✪ Web Development
- ✪ Laravel Development
+ ✪ PHP Development
  ✪ Android Development
  ✪ Flutter Development
  ✪ Web Application Development   
@@ -128,7 +130,7 @@
 <a href="https://twitter.com/ashraful_215" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/asrafulislam.imran.35" target="_blank">
+<a href="https://www.facebook.com/ashraful215" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a> 
 </div>  

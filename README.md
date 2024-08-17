@@ -3,7 +3,7 @@
 # Web Application (PHP) & Mobile Application (Flutter) Developer
   
 ### 💼 Current Position
-## User Interface & User Experience Designer at Omotive  #### https://www.omotive.co/
+## User Interface & User Experience Designer at Omotive
   
 
 #### ✨ A Creative Designer with 5+ Years of Experience

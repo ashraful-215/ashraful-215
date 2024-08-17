@@ -17,7 +17,7 @@
 ✪ Website Design
 ✪ Web App Design
 ✪ Dashboard Design
-✪ Mobile App Design   
+✪ Mobile App Design
 ✪ Illustration Design
 ✪ Web Application Design
 ✪ Mobile Application Design

@@ -1,44 +1,64 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8011DA&background=F7F7F700&width=610&height=70&lines=Hello!++I+am+MD+Ashraful+Islam+Talukdar;A+Creative+Designer+with+5%2B+Years+of+Experience;User+Interface+and+Experience+Designer+at+Omotive" alt="Typing SVG" /></a>
 
-# Web Application (PHP) & Mobile Application (Flutter) Developer
+# User Experience Designer || Web Application Developer
   
 ### 💼 Current Position
 ## User Interface & User Experience Designer at Omotive
   
 
-#### ✨ A Creative Designer with 5+ Years of Experience
+#### ✨ A Seasoned Creative Designer with Over 5 Years of Experience.
 
 
-##### 💻 Services I provide:
-✪ UI / Visual Design
-✪ UX Design / Research
-✪ Product Design
-✪ Website Design
-✪ Web App Design
-✪ Dashboard Design        
-✪ Mobile App Design
-✪ Illustration Design
-✪ Web Application Design
-✪ Mobile Application Design
+##### ✅ Expertise Includes:
+✪ Research Skills
+User Research: Interviews, surveys, usability testing.
+Data Analysis: Analyzing qualitative & quantitative data.
+Competitor Analysis: Studying competitors' designs & strategies.
+✪ Design Skills
+Wireframing & Prototyping: Wireframes, mockups & interactive prototypes.
+Visual Design: Visual hierarchy, typography, color theory & layout design.
+Interaction Design: User interaction patterns & animations.
+✪ Technical Knowledge
+Design Tools: Figma & Adobe Creative Suite(XD, Photoshop, Illustrator).
+✪ Soft Skills
+Empathy: Prioritizing user needs.
+Collaboration: Working with cross-functional team.
+Problem-Solving: Address design challenges creatively & strategically.
+✪ UX Processes
+Design Thinking: Define, ideate, prototype & test.
+Information Architecture (IA): Organize & structure content.
+User-Centered Design (UCD): Keeping users at the center of the process.
+✪ Analytical Skills
+Usability Testing: Iterating designs based on user feedback.
+A/B Testing: Effective design.
 
 
 
-#### ✨ A Creative Developer with 3+ Years of Experience.
+#### ✨ ✨ An Accomplished Creative Developer with 3+ Years of Experience.
  
-##### 💻 Services I provide: 
- ✪ Web Development
- ✪ PHP Development
- ✪ Android Development
- ✪ Flutter Development
- ✪ Web Application Development   
- ✪ Mobile Application Development
+##### ✅ Proficiencies Cover:
+✪ Front-End Development
+HTML5, CSS3: Responsive and accessible designs.
+JavaScript (ES6+): Dynamic UI and interactions.
+Frameworks: React.
+Responsive Design: Bootstrap.
+✪ Back-End Development
+Programming Languages: Python , Java, PHP.
+API Design: RESTful.
+Authentication: OAuth.
+✪ Database Management
+SQL Databases: MySQL.
+NoSQL Databases: Firebase.
+✪ Mobile App Development
+Dart: Object-oriented.
+Flutter: Widgets(Stateless, Stateful), Layout & State management.
 
-##### I try to solve difficult problems every time.  
+##### 📢 I am committed to addressing complex challenges and consistently delivering innovative solutions, Insha'Allah.
   
 
 
-#### 📢 Interested to work with me? Let's have a Talk!
-#### 📧 Connect: ashrafulimranislam215@gmail.com
+#### 🤝 Interested in collaborating with me? Let's start a conversation!  
+#### 📧 Reach out: ashrafulimranislam215@gmail.com
 
 
 

@@ -10,31 +10,47 @@
 
 
 ##### ✅ Expertise Includes:
+
 ✪ Research Skills
+
 User Research: Interviews, surveys, usability testing.
+
 Data Analysis: Analyzing qualitative & quantitative data.
+
 Competitor Analysis: Studying competitors' designs & strategies.
 
 ✪ Design Skills
+
 Wireframing & Prototyping: Wireframes, mockups & interactive prototypes.
+
 Visual Design: Visual hierarchy, typography, color theory & layout design.
+
 Interaction Design: User interaction patterns & animations.
 
 ✪ Technical Knowledge
+
 Design Tools: Figma & Adobe Creative Suite(XD, Photoshop, Illustrator).
 
 ✪ Soft Skills
+
 Empathy: Prioritizing user needs.
+
 Collaboration: Working with cross-functional team.
+
 Problem-Solving: Address design challenges creatively & strategically.
 
 ✪ UX Processes
+
 Design Thinking: Define, ideate, prototype & test.
+
 Information Architecture (IA): Organize & structure content.
+
 User-Centered Design (UCD): Keeping users at the center of the process.
 
 ✪ Analytical Skills
+
 Usability Testing: Iterating designs based on user feedback.
+
 A/B Testing: Effective design.
 
 
@@ -42,23 +58,35 @@ A/B Testing: Effective design.
 #### ✨ ✨ An Accomplished Creative Developer with 3+ Years of Experience.
  
 ##### ✅ Proficiencies Cover:
+
 ✪ Front-End Development
+
 HTML5, CSS3: Responsive and accessible designs.
+
 JavaScript (ES6+): Dynamic UI and interactions.
+
 Frameworks: React.
+
 Responsive Design: Bootstrap.
 
 ✪ Back-End Development
+
 Programming Languages: Python , Java, PHP.
+
 API Design: RESTful.
+
 Authentication: OAuth.
 
 ✪ Database Management
+
 SQL Databases: MySQL.
+
 NoSQL Databases: Firebase.
 
 ✪ Mobile App Development
+
 Dart: Object-oriented.
+
 Flutter: Widgets(Stateless, Stateful), Layout & State management.
 
 ##### 📢 I am committed to addressing complex challenges and consistently delivering innovative solutions, Insha'Allah.

@@ -55,7 +55,8 @@ A/B Testing: Effective design.
 
 
 
-#### ✨ ✨ An Accomplished Creative Developer with 3+ Years of Experience.
+
+#### ✨ An Accomplished Creative Developer with 3+ Years of Experience.
  
 ##### ✅ Proficiencies Cover:
 
@@ -89,8 +90,11 @@ Dart: Object-oriented.
 
 Flutter: Widgets(Stateless, Stateful), Layout & State management.
 
+
+
 ##### 📢 I am committed to addressing complex challenges and consistently delivering innovative solutions, Insha'Allah.
   
+
 
 
 #### 🤝 Interested in collaborating with me? Let's start a conversation!  
